@@ -6,14 +6,6 @@ userInput = input()
 if (userInput == "up" or userInput== "Up"):
   print("I am painting in the upward direction!")
 
-elif (userInput == "down" or userInput == "Down"):
-  print("I am painting in the downwards   direction!" )
-
-elif (userInput == "left" or userInput == "Left"):
-  print("I am painting in the left direction!" )
-
-elif (userInput == "right" or userInput == "Right"):
-  print("I am painting in the right direction!" )
-
-else:
-  print("Unrecognised response")
+elif (userInput == "down" or userInput == " "):
+  print("I am painting in the  direction!" )
+  
