@@ -1,0 +1,5 @@
+user_input = input("what do you want boop eye's to look like? ")
+print("##########")
+print("#  {}  {}  #".format(user_input,user_input))
+print("#  ----  #")
+print("##########")   
