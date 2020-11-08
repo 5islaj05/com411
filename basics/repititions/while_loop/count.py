@@ -9,3 +9,5 @@ while (Avoided_cables < Cables_Avoiding):
     print("Avoiding...", end="")
     Avoided_cables = Avoided_cables + 1
     print("Avoiding...Done!", Avoided_cables, "live cables avoided.")
+    
+    
